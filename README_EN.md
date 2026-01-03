@@ -3,7 +3,6 @@
 ## Project Overview
 **WitchHunt** is a 2D game/simulation project developed in C++ using the **ICBYTES** library. The main objective of the project is to demonstrate fundamental concepts such as the **game loop**, **event-driven input handling**, **2D rendering pipeline**, and **basic state management** without relying on high-level game engines (e.g., Unity or Unreal).
 
-The project is designed to present these concepts in a clear, inspectable, and academically evaluable codebase.
 
 ---
 
