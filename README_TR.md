@@ -3,7 +3,6 @@
 ## Proje Özeti
 **WitchHunt**, **ICBYTES** kütüphanesi kullanılarak C++ ile geliştirilmiş 2D bir oyun/simülasyon projesidir. Projenin amacı; yüksek seviye oyun motorlarına (Unity/Unreal vb.) bağlı kalmadan **game loop (oyun döngüsü)**, **olay tabanlı girdi işleme (event-driven input handling)**, **2D render/çizim hattı (rendering pipeline)** ve **basit durum yönetimi (state management)** gibi temel kavramları anlaşılır ve değerlendirilebilir bir kod tabanında göstermektir.
 
-Bu çalışma, **akademik ders projeleri**, **portföy (GitHub)** ve **CV/LinkedIn** kullanımına uygun şekilde hazırlanmıştır.
 
 ---
 
