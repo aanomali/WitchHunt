@@ -20,9 +20,9 @@ Aşağıdaki yapı, akışın net takip edilebilmesi için bilerek minimal tutul
 
 ```text
 WitchHunt/
-├── Main.cpp                 # Uygulama giriş noktası ve ana oyun döngüsü
-├── WitchHunt.sln            # Visual Studio solution dosyası
-├── WitchHunt.vcxproj        # Proje yapılandırması
+├── Main.cpp                 
+├── WitchHunt.sln            
+├── WitchHunt.vcxproj        
 ├── WitchHunt.vcxproj.filters
 ├── WitchHunt.vcxproj.user
 └── README.md
