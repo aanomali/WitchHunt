@@ -95,6 +95,7 @@ konularında pratik kazanılmıştır.
 - Basit AI davranışları
 - Skor ve UI katmanı
 - Çoklu seviye (level) yapısı
+- Değişken karakterler
 
 ---
 
