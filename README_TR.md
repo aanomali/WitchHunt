@@ -63,7 +63,7 @@ Bu başlıklar, modern oyun motorlarının ve etkileşimli sistemlerin temelini 
 
 2. Bu repository'yi klonla:
    ```bash
-   git clone <repo-url>
+   git clone <https://github.com/aanomali/WitchHunt>
    ```
 
 3. `WitchHunt.sln` dosyasını Visual Studio ile aç.
